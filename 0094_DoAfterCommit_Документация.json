@@ -1,0 +1,5 @@
+{
+  "title": "DoAfterCommit",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nDoAfterCommit\nDoAfterCommit\n. Execution after committing (applying) changes.\nPurpose\n: executing function(s) (as part of complex algorithms) after applying previous changes.\nSyntax\n:\nManual input of the function is assumed\n.\nParameters\n: no options.",
+  "source": "https://docs.greendata.ru/platform/en/doaftercommit.html"
+}

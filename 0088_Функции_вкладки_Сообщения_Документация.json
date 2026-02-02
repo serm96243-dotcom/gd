@@ -1,0 +1,5 @@
+{
+  "title": "Функции вкладки \"Сообщения\"",
+  "text": "Была ли статья полезной?\nДа\nНет\nСпасибо за вашу оценку!\nОставляя более подробный отзыв, вы помогаете нам улучшать документацию\nКомментарий к оценке\nКонтактная информация (необязательно)\nВложения\nДобавить файл\nОтменить\nОтправить\nФункции вкладки \"Сообщения\"\nsendMsgToEmail\nsendPopUpMsg\nsendMsgToSubject\nsendMsgToSubjects\nsendChatMsgToSubject\naddSignature\ncreateArchiveWithSign\nmessenger\ncreateOrGetObjectChat\ngetObjectChat\naddUsersToMessengerChat\nsetChatUserRights\nremoveUsersFromMessengerChat\nsetChatUserAdmin",
+  "source": "https://docs.greendata.ru/platform/ru/messages_tab_functions.html"
+}

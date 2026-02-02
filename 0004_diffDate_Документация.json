@@ -1,0 +1,5 @@
+{
+  "title": "diffDate",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\ndiffDate\ndiffDate\n. Calculate date\nPurpose:\nperiod calculation by subtracting dates.\nIt is used to filter objects.\nSyntax:\nParameters:\nDefine in which units the subtraction is performed. Select the units of the subtracted period from the drop-down list;\nArgument 1 – the date the next value is subtracted from\nArgument 2 – the date that is subtracted from the previous value\nDates can be specified as an attribute, variable (within the algorithm), function, reference value.\nUse case.\nThe following filtering is used to display requests that have been created in the last 4 days in the registry:",
+  "source": "https://docs.greendata.ru/platform/en/diffdate.html"
+}

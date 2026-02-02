@@ -1,0 +1,5 @@
+{
+  "title": "Функции вкладки \"Даты\"",
+  "text": "Была ли статья полезной?\nДа\nНет\nСпасибо за вашу оценку!\nОставляя более подробный отзыв, вы помогаете нам улучшать документацию\nКомментарий к оценке\nКонтактная информация (необязательно)\nВложения\nДобавить файл\nОтменить\nОтправить\nФункции вкладки \"Даты\"\nРабота с датами\ncurrentDate\ndateFormat\ngetDay\ngetMonth\ngetYear\nstartRepDate\nendRepDate\nrepPeriod\nreportDatesBetween\nplusPeriod\nplusWorkPeriod\nisWorkDay\ngetWorkDay\ntruncDate\ngetWorkDatesBetween",
+  "source": "https://docs.greendata.ru/platform/ru/working-with-dates.html"
+}

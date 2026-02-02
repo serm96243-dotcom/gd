@@ -1,0 +1,5 @@
+{
+  "title": "ExecWithOptions",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nExecWithOptions\nexecWithOptions\n. Executing a part of code with the options specified.\nPurpose\n: Executing a part of the code with the DISABLE_RECALC_PORTFOLIO_OPT option specified (disable portfolio recalculation) = true.\nSyntax\n:\nParameters\n:\n– the \"Disable portfolio recalculation\" option = true\nCode block – part of the code that needs to be executed without recalculating the portfolio\nThe function is used to work with algorithms of the\nCalculation module\n.",
+  "source": "https://docs.greendata.ru/platform/en/execwithoptions.html"
+}

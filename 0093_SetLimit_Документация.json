@@ -1,0 +1,5 @@
+{
+  "title": "SetLimit",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nSetLimit\nSetLimit\n. Set a limit\nPurpose:\nSetting the value of the limit(s) specified.\nSyntax:\nParameters:\nObjId – a System object identifier (for example: Application for decision, Transaction, Issue structure, etc.)\nlimitId – an identifier of an instance of the limit within which the work is carried out\nsublimIdList – a list of sublimits under which the work is carried out\nThe SetLimit function sets a specific limit without checking if the object is bound to the limit.\nJust to compare, the\nReCalcLimByObj\nfunction sets the limit only for those objects that meet the conditions for binding to the limit.",
+  "source": "https://docs.greendata.ru/platform/en/setlimit.html"
+}
