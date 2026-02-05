@@ -1,0 +1,5 @@
+{
+  "title": "Setting up a data source",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nSetting up a data source\nThe data source defines where the System receives data from\nas part of a custom ETL process (for more information, refer to\nWorking with ETL\n).\nWhen configuring an ETL schema (for more information, refer to\nSetting up an ETL schema\n), you can specify the following sources:\nThe data structure of an ETL process is usually formed by the source. Use the\nSettings\nbutton to input the parameters of the source selected.",
+  "source": "https://docs.greendata.ru/platform/en/etl-data-source.html"
+}

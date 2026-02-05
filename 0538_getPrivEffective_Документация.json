@@ -1,0 +1,5 @@
+{
+  "title": "getPrivEffective",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\ngetPrivEffective\nThe function is used for checking whether permissions are available.\nSyntax\ngetPrivEffective\n(obj, privilege, user)\nSetting\nPurpose\nobj\nSystem\nobject type\n, for which the permissions are checked\nprivilege\nDefining the\npermissions\nto be checked\nuser\nselecting a\nuser\n, whose permissions are to be checked\nNote\nThe function is called using the\nbutton, located in the Algorithm Editor on the \"Users and groups\" tab.\nThe result of the\nfunction is as follows:\ntrue\n– the user has the specified right to the selected object;\nfalse\n– the user does not have the specified right to the selected object.\nExample\nTo check the writing permissions for the \"Counterparty\" object of the \"Credit Manager\" user, use the following algorithm:",
+  "source": "https://docs.greendata.ru/platform/en/getpriveffective.html"
+}

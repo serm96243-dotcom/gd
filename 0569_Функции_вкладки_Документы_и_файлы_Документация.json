@@ -1,0 +1,5 @@
+{
+  "title": "Функции вкладки \"Документы и файлы\"",
+  "text": "Была ли статья полезной?\nДа\nНет\nСпасибо за вашу оценку!\nОставляя более подробный отзыв, вы помогаете нам улучшать документацию\nКомментарий к оценке\nКонтактная информация (необязательно)\nВложения\nДобавить файл\nОтменить\nОтправить\nФункции вкладки \"Документы и файлы\"\nРабота с печатными формами\nnewVerEdocFromFile\nnewExcelWorkbook\nnewVerFromFile\nnewPdfFile\nupdEDocSourcesVals\nprintEDoc\nexportToExcel\nexportEDocToFile\nnewVerEDoc",
+  "source": "https://docs.greendata.ru/platform/ru/docs_and_files_tab_functions.html"
+}

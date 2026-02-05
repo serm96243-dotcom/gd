@@ -1,0 +1,5 @@
+{
+  "title": "\"Additional\" tab functions",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\n\"Additional\" tab functions\nOther\nisCurrentLang\nloadByExcelTemplate\nsequenceNextVal\nsetSequenceCurrVal\nuuid\ngetMeasureTime\ncreateTimeStartPoint\nsetTimeEndPoint\nexecWithOptions\ngetSelected\nscript\nwrapSqlDataSource\nrunPyScript\nrecalcNormInst\nsecretVariable\nmethodCalc\nmessageBox\nsearchLdapEntry\ncreateLdapEntry\nupdateLdapEntry",
+  "source": "https://docs.greendata.ru/platform/en/additional-functions.html"
+}

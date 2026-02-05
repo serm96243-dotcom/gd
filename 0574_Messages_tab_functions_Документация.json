@@ -1,0 +1,5 @@
+{
+  "title": "\"Messages\" tab functions",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\n\"Messages\" tab functions\nWorking with messages\nsendMsgToEmail\nsendPopUpMsg\nsendMsgToSubject\nsendChatMsgToSubject\naddSignature\ncreateArchiveWithSign\ncreateOrGetObjectChat\ngetObjectChat\naddUsersToMessengerChat\nsetChatUserRights\nremoveUsersFromMessengerChat\nsetChatUserAdmin",
+  "source": "https://docs.greendata.ru/platform/en/messages_tab_functions.html"
+}

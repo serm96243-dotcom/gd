@@ -1,0 +1,5 @@
+{
+  "title": "ExportToExcel",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nExportToExcel\nExportToExcel\n. Export to Excel\nPurpose\n. Automatic upload of the reporting form to Excel\nSyntax\ndepends on the object uploaded:\nParameters:\nReport [\nRF_REPORT\n]/ data source [\nRF_SOURCE\n];\nSelect an object and specify which object is used to generate the document.\nThe Report/ data source parameters are inherited automatically from the object to be defined in the algorithm. If the object contains no parameters, the field will remain empty.\nAs a result of executing the function, a file is generated – the object type [\nFS_FILE\n] in\nXLSX\n. File generation is similar to manual uploading to excel with saving all the settings of the reporting form (such as filtering, styling, grouping, etc.).",
+  "source": "https://docs.greendata.ru/platform/en/exporttoexcel.html"
+}
