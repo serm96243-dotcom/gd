@@ -1,0 +1,5 @@
+{
+  "title": "sqrt",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nsqrt\nThe function returns the square root of the argument. The return value is a decimal number.\nSyntax\nsqrt\n(number)\nSetting\nPurpose\nnumber\nThe number from which the square root is extracted.\nNote\nThe function is called using the\nbutton, located in the Algorithm Editor on the \"Arithmetic and boolean\" tab.\nIf a negative number is specified, the System returns an error.\nExample\nCalculate the square root of 25:\nAlgorithm result: 5",
+  "source": "https://docs.greendata.ru/platform/en/sqrt.html"
+}

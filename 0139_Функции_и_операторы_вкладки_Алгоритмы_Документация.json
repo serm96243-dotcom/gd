@@ -1,0 +1,5 @@
+{
+  "title": "Функции и операторы вкладки \"Алгоритмы\"",
+  "text": "Была ли статья полезной?\nДа\nНет\nСпасибо за вашу оценку!\nОставляя более подробный отзыв, вы помогаете нам улучшать документацию\nКомментарий к оценке\nКонтактная информация (необязательно)\nВложения\nДобавить файл\nОтменить\nОтправить\nФункции и операторы вкладки \"Алгоритмы\"\nприсвоение\nскобки\nоператорные скобки\nalg\nalgWithParams\nvar\nattrByVar\nfor\nforEach\nshift\nreturn\nobjects\nobjectsWithOptions\nnumberFormat\nexecAs\ncreateTimeStartPoint\nsetTimeEndPoint\ngetMeasureTime\nbreak\nbreakException\ncontinue\nsetIndex\nqueryForObjectOrNull\nqueryForList\nfieldBySource",
+  "source": "https://docs.greendata.ru/platform/ru/algorithms.html"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Refresh cache",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nRefresh cache\nTo refresh data when working with object types, as well as in case of changes to\nsystem settings\n, cache refreshing is required.\nCache refreshing applies only to On-Premise solutions.\nIn SaaS systems, caching functionality is unavailable since the method used is not required.\nTo refresh the System cache, navigate to the object type registry by selecting the following menu items: Administration → Object management → Object types.\nIn the opened registry, click the\nbutton in the\ncontrol panel\n, then confirm the action by clicking \"Yes\" in the opened modal window.\nCache refreshing is available only if the user has the\n\"Invalidate cache\" permission\n.\nUpon completion, the System will notify that the command has been executed:",
+  "source": "https://docs.greendata.ru/platform/en/update-cache.html"
+}

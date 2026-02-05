@@ -1,0 +1,5 @@
+{
+  "title": "getUserByEmp",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\ngetUserByEmp\nThe function returns data (full name) of the user by employee.\nSyntax\ngetUserByEmp\n(employee)\nSetting\nPurpose\nemployee\nAttribute that contains the data (full name) of the employee.\nNote\nThe function is called using the\nbutton, located in the Algorithm Editor on the \"Users and groups\" tab.\nExample\nTo define the data of the employee who made the last changes to the profile, write down the following algorithm fragment:",
+  "source": "https://docs.greendata.ru/platform/en/getuserbyemp.html"
+}
