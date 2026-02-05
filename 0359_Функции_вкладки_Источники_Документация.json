@@ -1,0 +1,5 @@
+{
+  "title": "Функции вкладки \"Источники\"",
+  "text": "Была ли статья полезной?\nДа\nНет\nСпасибо за вашу оценку!\nОставляя более подробный отзыв, вы помогаете нам улучшать документацию\nКомментарий к оценке\nКонтактная информация (необязательно)\nВложения\nДобавить файл\nОтменить\nОтправить\nФункции вкладки \"Источники\"\nОсновные источники\nattr\ndict\ndictPrimitive\nform\nindex\nparam\nshift\nobjects\nobjectsWithOptions\nfilterAlg\nfilterSource\nextObjects\nfilterTree\ncontextObjAttr\nstyle\ncolor\ncurrentControl\nparentAttr\nisInTreeObjects\nСправочники\nitab\niObjTab\nrangeToObj\nqueryForList\nqueryForObjectOrNull\nfield\nfieldBySource\nСобытия\nattrNewValue\nattrOldValue",
+  "source": "https://docs.greendata.ru/platform/ru/sources-and-directories.html"
+}

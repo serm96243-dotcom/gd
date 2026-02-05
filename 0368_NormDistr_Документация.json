@@ -1,0 +1,5 @@
+{
+  "title": "NormDistr",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nNormDistr\nnormDistr.\nNormal distribution\nPurpose\n: getting the value (number) of the normal distribution from a series of arguments.\nSyntax:\nParameters:\nExpression – expression whose distribution is calculated;\nMedian – mean distribution;\nStandard deviation – standard deviation.\nThe function is most often used to calculate economic and financial indicators. For more information, refer to\nCalculated indicators\n.",
+  "source": "https://docs.greendata.ru/platform/en/normdistr.html"
+}

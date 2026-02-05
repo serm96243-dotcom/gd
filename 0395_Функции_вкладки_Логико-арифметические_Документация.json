@@ -1,0 +1,5 @@
+{
+  "title": "Функции вкладки \"Логико-арифметические\"",
+  "text": "Была ли статья полезной?\nДа\nНет\nСпасибо за вашу оценку!\nОставляя более подробный отзыв, вы помогаете нам улучшать документацию\nКомментарий к оценке\nКонтактная информация (необязательно)\nВложения\nДобавить файл\nОтменить\nОтправить\nФункции вкладки \"Логико-арифметические\"\nЛогические\niif\nif\nelse if\nelse\nand\nor\nnot\nisNull\nisNotNull\ntrue\nfalse\nАрифметические\nround\nabs\nexp\nln\nlog\nsqrt\nкорень\nстепень\nвертикальная дробь\nскобки\nоператорные скобки\ntruncNumber\ncount",
+  "source": "https://docs.greendata.ru/platform/ru/arithmetic-and-boolean-functions.html"
+}

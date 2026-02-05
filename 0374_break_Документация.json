@@ -1,0 +1,5 @@
+{
+  "title": "break",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nbreak\nThe function forcibly terminate the loop, bypassing the standard condition check.\nSyntax\nNo parameters.\nNote\nThe function is called using the\nbutton, located in the Algorithm Editor on the \"Algorithms\" tabs.\nExample\nThe break function can be used to terminate a loop when searching for a value. For example, if a value of \"2\" is found, it is necessary to stop further checks by breaking the loop.\nThe algorithm can be written as follows:\nIn this example, the\nfor\nloop is forcibly terminated when the desired element \"2\" is found.",
+  "source": "https://docs.greendata.ru/platform/en/break.html"
+}
