@@ -1,0 +1,5 @@
+{
+  "title": "ClearLimitUtilByObj",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nClearLimitUtilByObj\nclearLimitUtilByObj.\nClear limit utilization by object\nPurpose:\nDeleting (clearing) data on the utilization of the limit by a specific object of the System.\nSyntax:\nParameters:\nObjId – a System object identifier (for example: Application for decision, Transaction, Issue structure, etc.)\nAttention: The function deletes utilization/recovery entries in all limit/sublimit profiles (including versioned sublimits) utilized by the object specified.",
+  "source": "https://docs.greendata.ru/platform/en/clearlimitutilbyobj.html"
+}

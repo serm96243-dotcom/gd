@@ -1,0 +1,5 @@
+{
+  "title": "Displaying the task registry in the main menu settings",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nDisplaying the task registry in the main menu settings\nBusiness requirements may include displaying\nmain menu\nitems with little difference. For example, \"Tasks\" and \"Tasks in progress\". However, the displayed object type registries are similar. The default setting of the main menu item is\ndescribed earlier\n.\nTo display the \"second\" menu item, it is necessary to specify (in addition to the\nmain settings\n):\nFiled\nPurpose\nType\nSelect the \"Custom page\" registry type.\nModule ID\nSpecify the ID:\nWfProcessTaskRegistry\n.\nThis setting will display the following items in the menu:",
+  "source": "https://docs.greendata.ru/platform/en/displaying-task-registry-in-main-menu-settings.html"
+}
