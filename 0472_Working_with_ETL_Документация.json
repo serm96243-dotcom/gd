@@ -1,0 +1,5 @@
+{
+  "title": "Working with ETL",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nWorking with ETL\nWorking with ETL involves processing information from/to external sources\n.\nThe process of working with ETL (Extract, Transform, Load) includes:\nExtracting data from multiple sources\nTransforming data according to certain rules\nLoading data into the target storage (data warehouse, DW)\nMoving data from source to storage is a data flow. The data flow consists of the data itself and its structure.\nSetting up an ETL process in the System includes:\nCreating an ETL object\nSetting up an ETL schema\nSetting up ETL start",
+  "source": "https://docs.greendata.ru/platform/en/working-with-etl.html"
+}

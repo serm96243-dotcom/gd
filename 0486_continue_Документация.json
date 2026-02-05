@@ -1,0 +1,5 @@
+{
+  "title": "continue",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\ncontinue\nThe function is used in loops to skip the rest of the loop body code and go to the next iteration.\nSyntax\nNo parameters.\nNote\nThe function is called using the\nbutton, located in the Algorithm Editor on the \"Algorithms\" tabs.\nExample\nThe following algorithm can be written to form a sheet according to the given conditions:\nWhen condition 2=2 is checked, the block of statements containing the continue function will be executed, which will result in the transition to the next iteration, and the \"\ndstList.add(elem)\n\" part of the loop body will be skipped.\nThe result of this algorithm execution is: [1, 3, 4, 5, 6, 7, 8, 9, 10].",
+  "source": "https://docs.greendata.ru/platform/en/continue.html"
+}

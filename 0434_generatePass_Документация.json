@@ -1,0 +1,5 @@
+{
+  "title": "generatePass",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\ngeneratePass\nThe function automatically generates a password for the user account that meets the current\nsecurity policy\n.\nSyntax\ngeneratePass\n( )\nNo parameters.\nNote\nThe function is called using\nUsers and Groups tab\nof the algorithm editor toolbar.\nUse example\nFor example, it is required to generate a password that meets the established security requirements.\nThe algorithm can be as follows:\nAfter saving the data, the algorithm will generate a password for the user account, while the resulting value will correspond to the input mask set in the settings of the current\nsecurity policy\n.\nThis function was used to configure the\nAutomatic user creation\nuser case.",
+  "source": "https://docs.greendata.ru/platform/en/generatepass.html"
+}

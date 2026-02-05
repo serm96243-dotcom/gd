@@ -1,0 +1,5 @@
+{
+  "title": "return",
+  "text": "Was this article helpful?\nYes\nNo\nThank you for rating the article!\nBy leaving more detailed feedback, you help us improve the documentation\nComment on the rating\nContact information (optional)\nAttachments\nAdd file\nCancel\nSubmit\nreturn\nReturns the value of the specified object.\nSyntax\nNo parameters.\nNote\nThe function is called using the\nbutton, located in the Algorithm Editor on the \"Algorithms\" tabs.\nExample\nThe result of the algorithm’s calculation must be returned. Select the\nreturn\nfunction with the value to be output.\nOther functions were also used to write this algorithm.\nMore details\nThe variable is declared using the\nvar\nfunction.\nThe calculation (rounding) of the date is done using the\ntruncDate\nfunction.",
+  "source": "https://docs.greendata.ru/platform/en/return.html"
+}
